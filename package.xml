@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Dropfin_Pricecountdown</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v.3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Dropfin Special Price Countdown</summary>
+    <description>Dropfin Special Price Countdown</description>
+    <notes>Dropfin Special Price Countdown</notes>
+    <authors><author><name>Dropfin</name><user>Dropfin</user><email>t.balamani88@gmail.com</email></author></authors>
+    <date>2016-02-28</date>
+    <time>10:01:38</time>
+    <contents><target name="magecommunity"><dir name="Dropfin"><dir name="Pricecountdown"><dir name="Helper"><file name="Data.php" hash="a1f47d02709bbddec81c929dc6a4ec6f"/></dir><dir name="Model"><file name="Style.php" hash="7e8e98beed5394e7a271011b9065ae76"/></dir><dir name="etc"><file name="adminhtml.xml" hash="7d48be17682590273dbb415f83708d39"/><file name="config.xml" hash="ed3c178ad78138a1490d80a79b146f6b"/><file name="system.xml" hash="3ee8ab43f1247972ef31f24f614f93db"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><dir name="dropfin"><file name="pricecountdown.xml" hash="cab6d61edbb86ac8837d7483d397a829"/></dir></dir><dir name="template"><dir name="dropfin"><dir name="pricecountdown"><dir><dir name="catalog"><dir name="product"><file name="list.phtml" hash="6b9c6aee106195ae77a35e3764b53212"/><file name="view.phtml" hash="ed5a8fd5d067e0b7fd6da26048f1b0dd"/></dir></dir></dir></dir></dir></dir></dir></dir><dir name="rwd"><dir name="default"><dir name="layout"><dir name="dropfin"><file name="pricecountdown.xml" hash="cab6d61edbb86ac8837d7483d397a829"/></dir></dir><dir name="template"><dir name="dropfin"><dir name="pricecountdown"><dir><dir name="catalog"><dir name="product"><file name="list.phtml" hash="994e0076d0a1eb593f3ecb3c4e2d5ba9"/><file name="view.phtml" hash="384cbe74fc3ca56ea51023ac9d3045f0"/></dir></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Dropfin_Pricecountdown.xml" hash="18672867c6d0423bd87007788cda4b2c"/></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="dropfin"><dir name="pricecountdown"><dir><dir name="css"><file name="style.css" hash="696d7d54a038fba4f0c62fd2b30cba5c"/></dir><dir name="type-1"><dir name="css"><file name="jquery.countdown.css" hash="8d73a36e4308977e258c18f152439647"/></dir><dir name="js"><file name="jquery.1.11.0.min.js" hash="8fc25e27d42774aeae6edbc0a18b72aa"/><file name="jquery.countdown.js" hash="f52ce269d6b735d0b75a2129023bdb83"/><file name="jquery.plugin.js" hash="5089653f43d0a3970aae2bed9a31666a"/></dir></dir><dir name="type-2"><dir name="css"><file name="timeTo.css" hash="e77530930c9cd61e28c241cee89f41b1"/></dir><dir name="js"><file name="jquery.1.11.0.min.js" hash="8fc25e27d42774aeae6edbc0a18b72aa"/><file name="jquery.time-to.js" hash="eaea22ef63a2119b503d41e18973c0e8"/><file name="jquery.time-to.min.js" hash="2a0604133c1450cdcfbdb1175b6069b5"/></dir></dir><dir name="type-4"><dir name="css"><file name="flipclock.css" hash="662c233f8b3fc5ca742fcea6aaf0160e"/><file name="flipclock_for_plp.css" hash="e87abd05353ebbf5949c87b17af40e09"/></dir><dir name="js"><file name="flipclock.js" hash="6c23f805cbdf2c0c14a7e30ad977a829"/><file name="flipclock.min.js" hash="b9d7742384bdf912c51b6a1b5d674f7a"/><file name="jquery.1.11.0.min.js" hash="8fc25e27d42774aeae6edbc0a18b72aa"/></dir></dir></dir></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

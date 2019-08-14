@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Dropfin_Pricecountdown",
+    "type": "magento-module",
+    "license": "OSL-v.3.0",
+    "homepage": "",
+    "description": "Dropfin Special Price Countdown",
+    "authors": [
+    {
+        "name": "Dropfin",
+        "email": "t.balamani88@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
