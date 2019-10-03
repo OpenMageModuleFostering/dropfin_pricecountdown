@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Dropfin_Pricecountdown",
+    "name": "openmage-module-fostering\/dropfin_pricecountdown",
     "type": "magento-module",
-    "license": "OSL-v.3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Dropfin Special Price Countdown",
     "authors": [
